@@ -1,3 +1,6 @@
+<!--
+**bbooher/bbooher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 ## Hello!
 My name is Ben and I'm an engineer who enjoys solving unique and challenging problems.
 
@@ -13,19 +16,23 @@ My name is Ben and I'm an engineer who enjoys solving unique and challenging pro
 ### Industrial Control
 - [Mark VIe](https://www.ge.com/power/gas/controls/mark-vies-ucsc)
 
-I'm currently working towards my M.S. Computer Science from Georgia Tech's prestigious OMS-CS program. I'm specializing in Computational Perception and Robotics - which includes AI/ML and computer vision course work.
 
-<!--
-**bbooher/bbooher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Completed Course Work Highlights
+I'm currently working towards my M.S. Computer Science from Georgia Tech's prestigious OMS-CS program. I'm specializing in Computational Perception and Robotics - which includes AI/ML and computer vision course work. Expected graduation - Spring 2022.
 
-Here are some ideas to get you started:
+### Computational Photography
+- Background-Foreground Decomposition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(based on "A Computational Approach for Obstruction-Free Photography" by Xue et al 2015)
+![Obstruction Free Photography](Obstruction.png)
+
+- Minimal Seam Removal
+
+(based on "Seam Carving for Content-Aware Image Resizing" by Avidan and Shamir 2007)
+![Seam Removal](Seams.png)
+
+### Computer Vision
+- CNN Street Number Detection
+
+![Digit Detection](Digits.png)
+
