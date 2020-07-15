@@ -8,7 +8,7 @@ My name is Ben and I'm an engineer who enjoys solving unique and challenging pro
 
 
 ## Check out some of my work as a firmware developer
-### IoT
+### Retail Loss Prevention
 - [OneKEY Detacher](https://invue.com/wp-content/uploads/2019/06/OneKEY-Detacher_ss_06102019.pdf)
 - [Wearables Security](https://invue.com/wp-content/uploads/2019/08/WearablesSolutions-SS-08.06.19.pdf)
 ### Medical Devices
