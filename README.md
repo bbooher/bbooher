@@ -4,7 +4,7 @@
 ## Hello!
 My name is Ben and I'm an engineer who enjoys solving unique and challenging problems.
 
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/booherbenjamin)
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/booherbenjamin)
 
 
 ## Check out some of my work as a firmware developer
