@@ -41,3 +41,4 @@ I'm currently working towards my M.S. Computer Science from Georgia Tech's prest
 ### ML for Trading
 ### High Performance Computer Architecture
 ### Software Architecture and Design
+### AI
