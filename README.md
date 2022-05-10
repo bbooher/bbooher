@@ -18,7 +18,7 @@ My name is Ben and I'm an engineer who enjoys solving unique and challenging pro
 
 
 ## Completed Course Work Highlights
-I'm currently working towards my M.S. Computer Science from Georgia Tech's prestigious OMS-CS program. I'm specializing in Computational Perception and Robotics - which includes AI/ML and computer vision course work. Expected graduation - Spring 2022.
+I've completed my M.S. Computer Science from Georgia Tech's prestigious OMS-CS program, specializing in Computational Perception and Robotics - which includes AI/ML and computer vision course work.
 
 ### Computational Photography
 - Background-Foreground Decomposition
