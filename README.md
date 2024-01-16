@@ -18,7 +18,7 @@ My name is Ben and I'm an engineer who enjoys solving unique and challenging pro
 
 
 ## Completed Course Work Highlights
-I've completed my M.S. Computer Science from Georgia Tech's prestigious OMS-CS program, specializing in Computational Perception and Robotics - which includes AI/ML and computer vision course work.
+I've completed my M.S. in Computer Science from Georgia Tech's prestigious OMS-CS program, specializing in Computational Perception and Robotics, including AI/ML and computer vision coursework.
 
 ### Computational Photography
 - Background-Foreground Decomposition
@@ -37,9 +37,9 @@ I've completed my M.S. Computer Science from Georgia Tech's prestigious OMS-CS p
 ![Digit Detection](https://github.com/bbooher/bbooher/blob/master/Digits.png)
 
 ## Other Completed Courses
-### AI for Robotics
-### ML for Trading
-### High Performance Computer Architecture
-### Software Architecture and Design
-### AI
-### Deep Learning
+- AI for Robotics
+- ML for Trading
+- High-Performance Computer Architecture
+- Software Architecture and Design
+- AI
+- Deep Learning
