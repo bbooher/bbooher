@@ -4,6 +4,7 @@
 ## Hello!
 My name is Ben and I'm an engineer who enjoys solving unique and challenging problems.
 
+## See my professional experience on LinkedIn
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bjbooher/)
 
 
