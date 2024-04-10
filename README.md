@@ -7,16 +7,6 @@ My name is Ben and I'm an engineer who enjoys solving unique and challenging pro
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bjbooher/)
 
 
-## Check out some of my work as a firmware developer
-### Retail Loss Prevention
-- [OneKEY Detacher](https://invue.com/wp-content/uploads/2019/06/OneKEY-Detacher_ss_06102019.pdf)
-- [Wearables Security](https://invue.com/wp-content/uploads/2019/08/WearablesSolutions-SS-08.06.19.pdf)
-### Medical Devices
-- [Perfusion System](https://www.spectrummedical.com/quantum-perfusion-for-the-or/quantum-technologies-for-the-or)
-### Industrial Control
-- [Mark VIe](https://www.ge.com/power/gas/controls/mark-vies-ucsc)
-
-
 ## Completed Course Work Highlights
 I've completed my M.S. in Computer Science from Georgia Tech's prestigious OMS-CS program, specializing in Computational Perception and Robotics, including AI/ML and computer vision coursework.
 
