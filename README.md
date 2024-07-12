@@ -4,36 +4,48 @@
 ## Hello!
 My name is Ben and I'm an engineer who enjoys solving unique and challenging problems.
 
-## My Organization GitHub
-[Pull Repo GitHub](https://github.com/PullRepo)
-
 ## See my professional experience on LinkedIn
 [![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bjbooher/)
 
 
-## Completed Course Work Highlights
+## My Organization GitHub
+I own a boutique software consulting firm [Pull Repo LLC](https://pull-repo.com) and some toy projects and templates are shared here:
+[Pull Repo GitHub](https://github.com/PullRepo)
+
+
+## MS Computer Science - Course Work Highlights
 I've completed my M.S. in Computer Science from Georgia Tech's prestigious OMS-CS program, specializing in Computational Perception and Robotics, including AI/ML and computer vision coursework.
 
-### Computational Photography
-- Background-Foreground Decomposition
+### Research Replication
+- Background-Foreground Decomposition: based on "A Computational Approach for Obstruction-Free Photography" by Xue et al 2015
 
-(based on "A Computational Approach for Obstruction-Free Photography" by Xue et al 2015)
-![Obstruction Free Photography](https://github.com/bbooher/bbooher/blob/master/Obstruction.png)
+<img
+  style="display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;"
+  src="https://github.com/bbooher/bbooher/blob/master/Obstruction.png"
+  alt="Obstruction Free Photography">
+</img> 
 
-- Minimal Seam Removal
+- Minimal Seam Removal: based on "Seam Carving for Content-Aware Image Resizing" by Avidan and Shamir 2007
 
-(based on "Seam Carving for Content-Aware Image Resizing" by Avidan and Shamir 2007)
-![Seam Removal](https://github.com/bbooher/bbooher/blob/master/Seams.png)
+<img
+  style="display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;"
+  src="https://github.com/bbooher/bbooher/blob/master/Seams.png"
+  alt="Seam Removal">
+</img>
 
-### Computer Vision
-- CNN Street Number Detection
+- CNN Street Number Detection (Digit Detection)
 
-![Digit Detection](https://github.com/bbooher/bbooher/blob/master/Digits.png)
-
-## Other Completed Courses
-- AI for Robotics
-- ML for Trading
-- High-Performance Computer Architecture
-- Software Architecture and Design
-- AI
-- Deep Learning
+<img
+  style="display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;"
+  src="https://github.com/bbooher/bbooher/blob/master/Digits.png"
+  alt="Digit Detection">
+</img>
