@@ -5,8 +5,11 @@
 My name is Ben and I'm an engineer who enjoys solving unique and challenging problems.
 
 ## See my professional experience on LinkedIn
-[![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bjbooher/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bjbooher/)
 
+
+## Languages and Tools
+[![Tools](https://skillicons.dev/icons?i=c,cpp,py,rust,cmake,git,vscode,anaconda,opencv,pytorch,ubuntu,linux,raspberrypi,arduino&perline=7)](https://skillicons.dev)
 
 ## My Organization GitHub
 I own a boutique software consulting firm [Pull Repo LLC](https://pull-repo.com) and some toy projects and templates are shared here:
