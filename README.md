@@ -20,6 +20,10 @@ I own a boutique software consulting firm, Pull Repo LLC. Click the PR logo to v
 <a href="https://pull-repo.com"><img src="PR-logo.png" alt="Pull Repo LLC Logo" width="50" height="50"></a>
 <a href="https://github.com/PullRepo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Logo"></a>
 
+## Open Source
+I'm a recognized contributor to the Zephyr Project.
+
+<img src="zephyr-technical-contributor.png" alt="The Zephyr Project Contributor badge" width="150" height="150">
 
 ## MS Computer Science - Course Work Highlights
 I've completed my M.S. in Computer Science from Georgia Tech's prestigious OMS-CS program, specializing in Computational Perception and Robotics, including AI/ML and computer vision coursework.
